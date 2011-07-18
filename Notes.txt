@@ -1,0 +1,3 @@
+ - The solution is organised so that related features are grouped. This will hopefully make it easier to
+   cherry-pick useful code. A better organisation for a real application might organise classes by functional
+   dependency

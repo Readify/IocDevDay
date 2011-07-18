@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "Timesheets";
+}
+@model IEnumerable<TinySheets.Entities.TimeEntry>
+
+<h2>Add a Timesheet Entry</h2>
+<form action='@Url.Action("AddEntry")' method='post'>
+    <fieldset>
+        <label for='description'>Description</label>
+        <input name='description' type='text' />
+    </fieldset>
+    <fieldset>
+        <label for='hours'>Hours</label>
+        <input name='hours' type='text' />
+    </fieldset>
+    @Html.AntiForgeryToken()
+    <input type='submit' value='Add Entry' />
+</form>
+
+<h2>Past Entries</h2>
+<ul>
+    @foreach (var entry in Model)    
+    {
+        <li>@entry.Description (@entry.Hours hours)</li>
+    }
+</ul>

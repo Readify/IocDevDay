@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" auto-import="true" default-access="field.camelcase-underscore" schema="tinysheets">
+  <class name="TinySheets.Entities.TimeEntry, TinySheets" lazy="true">
+    <id name="Id" column="TimeEntryId">
+      <generator class="native" />
+    </id>
+    <property name="Description" />
+    <property name="Hours" />
+    <property name="IsApproved" />
+  </class>
+</hibernate-mapping>

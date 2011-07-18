@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" />
+    <script src="@Url.Content("~/Scripts/jquery-1.4.4.min.js")" type="text/javascript"></script>
+</head>
+
+<body>
+    <div class="commentary">
+        <h2>About this application...</h2>
+        <p>There are two parts to this simple timesheeting simulation. The web application, which
+        you are viewing, records time entries in the database. The
+        <code>TinySheets.ServiceProcess.exe</code> component is a back-end Windows service that
+        runs periodic tasks to read and operate upon the time entries (this can also execute as
+        a regular console application.)</p>
+        <p>This application demonstrates a variety of IoC-driven composition techniques.</p>
+        <ul>
+            <li>Delegate registrations (see <code>NHibernateModule</code>'s registration of <code>ISession</code>)</li>
+            <li>Generic components (see <code>Log4NetLog</code>)</li>
+            <li>'Generic handlers' (see <code>IDomainEventHandler</code> and <code>DomainEventDispatcher</code>)</li>
+            <li>Metadata-driven extensibility (see <code>ITask</code>)</li>
+            <li>Relationship types (see <code>TaskRunner</code>'s dependency on its tasks)</li>
+            <li>Modular configuration (see <code>PeriodicTasksModule</code>)</li>
+            <li>XML configuration (see <code>Web.config</code> and <code>App.config</code>)</li>
+            <li>Decorators (see <code>TransactedTask</code>)</li>
+            <li>Unit-of-work-driven lifetime (see <code>TaskRunner</code> and <code>TaskFactory</code>)</li>
+            <li>Extension of the MVC action invocation pipeline for transactions (see <code>TransactedActionFilter</code>)</li>
+        </ul>
+        <p>In addition there is an implementation of a variation of the <em>Domain Event</em> pattern,
+        demonstrated in <code>TimeEntry.Approve()</code>.</p>
+        <p>The application is not intended to demonstrate good ASP.NET MVC or NHibernate usage, there are
+        better examples elsewhere for these technologies.</p>
+    </div>
+    <div class="application">
+        @RenderBody()
+    </div>
+</body>
+</html>

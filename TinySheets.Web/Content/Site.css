@@ -1,0 +1,38 @@
+body
+{
+    font-size: 75%;
+    font-family: Verdana, Tahoma, Arial, "Helvetica Neue", Helvetica, Sans-Serif;
+    color: #232323;
+    background-color: #fff;
+}
+
+div.application
+{
+    width: 400px;
+    margin: 10px;
+    background: #fff;
+    padding: 20px;
+}
+
+div.commentary
+{
+    background: #eff;
+    margin: 10px 10px 10px 30px;
+    float: right;
+    width: 400px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+fieldset
+{
+    border: 0px;
+}
+
+label
+{
+    display: inline-block;
+    font-weight: bold;
+    width: 80px;
+}

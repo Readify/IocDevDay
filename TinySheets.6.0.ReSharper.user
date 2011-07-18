@@ -1,0 +1,520 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:Persistence/d:NHibernate/f:NHibernateDomainEventListener.cs" caret="518" fromTop="13" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:Eventing/f:AutofacDomainEventDispatcher.cs" caret="1052" fromTop="9" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:Tasks/f:TaskFactory.cs" caret="0" fromTop="0" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:Eventing/f:IDomainEventHandler.cs" caret="170" fromTop="5" />
+      <File id="A96DFAE3-53C1-42BE-93DA-375C185275FB/f:Global.asax.cs" caret="1136" fromTop="9" />
+      <File id="A96DFAE3-53C1-42BE-93DA-375C185275FB/d:Mvc/f:TransactedActionFilter.cs" caret="872" fromTop="25" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:Tasks/f:TaskRunnerModule.cs" caret="892" fromTop="27" />
+      <File id="A96DFAE3-53C1-42BE-93DA-375C185275FB/f:Web.config" caret="480" fromTop="13" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:Tasks/f:TransactedTask.cs" caret="679" fromTop="21" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:Persistence/d:NHibernate/f:NHibernateTransactionContext.cs" caret="1099" fromTop="21" />
+      <File id="736679E4-ECC5-4444-9DF1-C058215B36AA/f:app.config" caret="2130" fromTop="23" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:Tasks/f:TaskRunner.cs" caret="431" fromTop="15" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:Tasks/f:TaskEntry.cs" caret="468" fromTop="16" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:EventHandlers/f:ApprovalEmailSender.cs" caret="478" fromTop="11" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:Tasks/f:TaskFrequencyAttribute.cs" caret="111" fromTop="5" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:PeriodicTasks/f:InvoicePublishingTask.cs" caret="919" fromTop="26" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:PeriodicTasks/f:PeriodicTasksModule.cs" caret="543" fromTop="19" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:PeriodicTasks/f:HeartbeatTask.cs" caret="132" fromTop="6" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:Persistence/d:NHibernate/d:Mapping/f:TimeEntry.hbm.xml" caret="375" fromTop="6" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:Entities/f:TimeEntry.cs" caret="558" fromTop="20" />
+      <File id="A96DFAE3-53C1-42BE-93DA-375C185275FB/d:Views/f:_ViewStart.cshtml" caret="0" fromTop="0" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:Persistence/d:NHibernate/f:NHibernateModule.cs" caret="0" fromTop="0" />
+      <File id="A96DFAE3-53C1-42BE-93DA-375C185275FB/d:Controllers/f:TimesheetController.cs" caret="960" fromTop="32" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:Persistence/f:IRepository.cs" caret="206" fromTop="10" />
+      <File id="736679E4-ECC5-4444-9DF1-C058215B36AA/f:Program.cs" caret="351" fromTop="12" />
+      <File id="A96DFAE3-53C1-42BE-93DA-375C185275FB/d:Views/d:Shared/f:_Layout.cshtml" caret="2264" fromTop="37" />
+      <File id="A96DFAE3-53C1-42BE-93DA-375C185275FB/d:Views/d:Timesheet/f:Index.cshtml" caret="317" fromTop="10" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:PeriodicTasks/f:AutomaticApprovalTask.cs" caret="916" fromTop="27" />
+      <File id="67CBC824-A49E-4E9B-A947-360F3DFE65C3/d:Schema Objects/d:Schemas/d:tinysheets/d:Tables/f:TimeEntry.table.sql" caret="178" fromTop="7" />
+      <File id="A96DFAE3-53C1-42BE-93DA-375C185275FB/d:Content/f:Site.css" caret="386" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="736679E4-ECC5-4444-9DF1-C058215B36AA/f:app.config" caret="1906" fromTop="15" />
+      <File id="736679E4-ECC5-4444-9DF1-C058215B36AA/f:app.config" caret="2130" fromTop="23" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:Tasks/f:TaskEntry.cs" caret="91" fromTop="5" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:Tasks/f:TaskRunner.cs" caret="277" fromTop="11" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:Entities/f:TimeEntry.cs" caret="314" fromTop="10" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:Entities/f:TimeEntry.cs" caret="1024" fromTop="30" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:Entities/f:TimeEntry.cs" caret="1148" fromTop="21" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:Entities/f:TimeEntry.cs" caret="832" fromTop="13" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:PeriodicTasks/f:AutomaticApprovalTask.cs" caret="0" fromTop="0" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:PeriodicTasks/f:AutomaticApprovalTask.cs" caret="417" fromTop="14" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:PeriodicTasks/f:AutomaticApprovalTask.cs" caret="818" fromTop="24" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:EventHandlers/f:ApprovalEmailSender.cs" caret="478" fromTop="18" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:EventHandlers/f:ApprovalEmailSender.cs" caret="357" fromTop="16" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:EventHandlers/f:ApprovalEmailSender.cs" caret="13" fromTop="0" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:EventHandlers/f:ApprovalEmailSender.cs" caret="666" fromTop="20" />
+      <File id="67CBC824-A49E-4E9B-A947-360F3DFE65C3/d:Schema Objects/d:Schemas/d:tinysheets/d:Tables/f:TimeEntry.table.sql" caret="173" fromTop="5" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:Persistence/d:NHibernate/d:Mapping/f:TimeEntry.hbm.xml" caret="438" fromTop="8" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:PeriodicTasks/f:PeriodicTasksModule.cs" caret="502" fromTop="15" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:PeriodicTasks/f:AutomaticApprovalTask.cs" caret="210" fromTop="9" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:PeriodicTasks/f:InvoicePublishingTask.cs" caret="855" fromTop="25" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:PeriodicTasks/f:AutomaticApprovalTask.cs" caret="879" fromTop="25" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:PeriodicTasks/f:HeartbeatTask.cs" caret="132" fromTop="6" />
+      <File id="E6F5F163-4691-4FA5-A28B-B46FDDA77AE9/d:Entities/f:TimeEntry.cs" caret="558" fromTop="20" />
+      <File id="A96DFAE3-53C1-42BE-93DA-375C185275FB/d:Controllers/f:TimesheetController.cs" caret="894" fromTop="29" />
+      <File id="A96DFAE3-53C1-42BE-93DA-375C185275FB/d:Views/d:Shared/f:_Layout.cshtml" caret="2198" fromTop="12" />
+      <File id="A96DFAE3-53C1-42BE-93DA-375C185275FB/d:Views/d:Shared/f:_Layout.cshtml" caret="2198" fromTop="34" />
+      <File id="A96DFAE3-53C1-42BE-93DA-375C185275FB/d:Views/d:Shared/f:_Layout.cshtml" caret="274" fromTop="9" />
+      <File id="A96DFAE3-53C1-42BE-93DA-375C185275FB/d:Views/d:Shared/f:_Layout.cshtml" caret="2264" fromTop="33" />
+      <File id="A96DFAE3-53C1-42BE-93DA-375C185275FB/d:Content/f:Site.css" caret="263" fromTop="13" />
+      <File id="A96DFAE3-53C1-42BE-93DA-375C185275FB/d:Content/f:Site.css" caret="577" fromTop="34" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="builder" priority="13" />
+      <Item value="typeof" priority="5" />
+      <Item value="MvcApplication`0" priority="0" />
+      <Item value="var" priority="18" />
+      <Item value="DependencyResolver`0" priority="1" />
+      <Item value="container" priority="2" />
+      <Item value="public" priority="20" />
+      <Item value="ActionResult`0" priority="1" />
+      <Item value="return" priority="9" />
+      <Item value="View`0" priority="0" />
+      <Item value="HttpPost" priority="0" />
+      <Item value="ValidateAntiForgeryToken" priority="1" />
+      <Item value="string" priority="8" />
+      <Item value="double" priority="1" />
+      <Item value="TimesheetController`0" priority="0" />
+      <Item value="interface" priority="3" />
+      <Item value="IRepository" priority="0" />
+      <Item value="session" priority="2" />
+      <Item value="_session" priority="3" />
+      <Item value="void" priority="8" />
+      <Item value="T`0" priority="2" />
+      <Item value="new" priority="7" />
+      <Item value="TimeEntry`0" priority="3" />
+      <Item value="description" priority="0" />
+      <Item value="hours" priority="0" />
+      <Item value="protected" priority="1" />
+      <Item value="override" priority="12" />
+      <Item value="_timeEntries" priority="2" />
+      <Item value="Redirect`0" priority="0" />
+      <Item value="int" priority="2" />
+      <Item value="_id" priority="1" />
+      <Item value="timeEntries" priority="0" />
+      <Item value="DomainEventStore`0" priority="0" />
+      <Item value="IDomainEventStore`0" priority="2" />
+      <Item value="NHibernateDomainEventListener`0" priority="1" />
+      <Item value="IGenerateDomainEvents`0" priority="1" />
+      <Item value="readonly" priority="0" />
+      <Item value="IDomainEventStore" priority="0" />
+      <Item value="_domainEventStore" priority="4" />
+      <Item value="domainEventStore" priority="1" />
+      <Item value="Queue" priority="1" />
+      <Item value="if" priority="6" />
+      <Item value="_mergedStore" priority="5" />
+      <Item value="thr" priority="1" />
+      <Item value="domainEvent" priority="5" />
+      <Item value="InvalidOperationException`0" priority="1" />
+      <Item value="for" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="_domainEvents" priority="0" />
+      <Item value="RetrieveAndClear`0" priority="0" />
+      <Item value="domainEvents" priority="1" />
+      <Item value="domainEventsToMerge" priority="0" />
+      <Item value="value" priority="1" />
+      <Item value="_hours" priority="0" />
+      <Item value="TimeEntryChangedEvent`0" priority="0" />
+      <Item value="UpdateHours`0" priority="0" />
+      <Item value="TEvent`0" priority="2" />
+      <Item value="EventHandlerModule`0" priority="0" />
+      <Item value="Commit" priority="0" />
+      <Item value="IDisposable`0" priority="0" />
+      <Item value="IPersistenceContext`0" priority="1" />
+      <Item value="NHibernatePersistenceContext`0" priority="0" />
+      <Item value="params" priority="0" />
+      <Item value="object" priority="1" />
+      <Item value="ILog" priority="1" />
+      <Item value="TClient`0" priority="1" />
+      <Item value="_log" priority="4" />
+      <Item value="LogManager`0" priority="0" />
+      <Item value="message" priority="1" />
+      <Item value="formatArgs" priority="1" />
+      <Item value="exception" priority="0" />
+      <Item value="NHibernateTransactionContext`0" priority="1" />
+      <Item value="ILoggerFactory`0" priority="0" />
+      <Item value="domainEventDispatcher" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="_currentTransaction" priority="1" />
+      <Item value="null" priority="0" />
+      <Item value="transaction" priority="0" />
+      <Item value="_transactionContext" priority="10" />
+      <Item value="isolationLevel" priority="2" />
+      <Item value="try" priority="2" />
+      <Item value="TransactionAbortExceptionFilter`0" priority="1" />
+      <Item value="transactionContext" priority="2" />
+      <Item value="IDomainEventDispatcher`0" priority="1" />
+      <Item value="false" priority="1" />
+      <Item value="TransactedActionInvoker`0" priority="1" />
+      <Item value="IActionInvoker`0" priority="0" />
+      <Item value="DomainEventDispatcher`0" priority="1" />
+      <Item value="catch" priority="0" />
+      <Item value="Exception`0" priority="1" />
+      <Item value="throw" priority="1" />
+      <Item value="componentContext" priority="1" />
+      <Item value="DomainEvent`0" priority="1" />
+      <Item value="eventsToDispatch" priority="0" />
+      <Item value="foreach" priority="1" />
+      <Item value="IDomainEventHandler" priority="0" />
+      <Item value="_componentContext" priority="0" />
+      <Item value="allHandlersType" priority="0" />
+      <Item value="handlers" priority="0" />
+      <Item value="dynamic" priority="0" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="handler" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="where" priority="1" />
+      <Item value="TimeSpan`0" priority="3" />
+      <Item value="ITaskMetadata`0" priority="3" />
+      <Item value="TaskFrequencyAttribute`0" priority="4" />
+      <Item value="_frequency" priority="0" />
+      <Item value="frequencyMilliseconds" priority="0" />
+      <Item value="AttributeUsage" priority="0" />
+      <Item value="AttributeTargets`0" priority="0" />
+      <Item value="PeriodicTasksModule`0" priority="1" />
+      <Item value="thisAssembly" priority="0" />
+      <Item value="m" priority="0" />
+      <Item value="t" priority="3" />
+      <Item value="Cast`1" priority="0" />
+      <Item value="Program`0" priority="1" />
+      <Item value="program" priority="0" />
+      <Item value="args" priority="0" />
+      <Item value="_taskRunner" priority="1" />
+      <Item value="ITaskRunner`0" priority="3" />
+      <Item value="TaskRunner`0" priority="2" />
+      <Item value="IEquatable" priority="0" />
+      <Item value="MethodAccessException`0" priority="0" />
+      <Item value="Func" priority="0" />
+      <Item value="ITask`0" priority="3" />
+      <Item value="TransactedTask`0" priority="2" />
+      <Item value="finally" priority="0" />
+      <Item value="_inner" priority="0" />
+      <Item value="c" priority="1" />
+      <Item value="const" priority="1" />
+      <Item value="TransactedTaskServiceName" priority="1" />
+      <Item value="TaskFactory`0" priority="1" />
+      <Item value="Resolve`0" priority="0" />
+      <Item value="toKey" priority="0" />
+      <Item value="_tasks" priority="1" />
+      <Item value="filterContext" priority="0" />
+      <Item value="TransactedActionFilter`0" priority="0" />
+      <Item value="IActionFilter`0" priority="0" />
+      <Item value="flushCycles" priority="1" />
+      <Item value="static" priority="0" />
+      <Item value="MaximumFlushCycles" priority="0" />
+      <Item value="OperationAbortedException" priority="0" />
+      <Item value="OperationCanceledException`0" priority="0" />
+      <Item value="PersistentObjectException`0" priority="0" />
+      <Item value="SessionException`0" priority="0" />
+      <Item value="InvoicePublishingTask`0" priority="1" />
+      <Item value="System" priority="0" />
+      <Item value="Diagnostics" priority="0" />
+      <Item value="Trace`0" priority="0" />
+      <Item value="totalHours" priority="0" />
+      <Item value="charge" priority="0" />
+      <Item value="TimesheetUpdateEventHandler`0" priority="0" />
+      <Item value="virtual" priority="0" />
+      <Item value="this" priority="0" />
+      <Item value="base" priority="0" />
+      <Item value="timeEntry" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Assembly" priority="2" />
+      <Item value="MakeGenericType`0" priority="1" />
+      <Item value="IsNestedFamORAssem" priority="0" />
+      <Item value="GetCustomAttributes`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Autofac.ContainerBuilder">
+      <Item value="RegisterModule`1" priority="1" />
+      <Item value="Build`0" priority="1" />
+      <Item value="RegisterType`0" priority="6" />
+      <Item value="RegisterAssemblyTypes`0" priority="1" />
+      <Item value="RegisterInstance`1" priority="0" />
+      <Item value="RegisterAdapter`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Mvc.DependencyResolver">
+      <Item value="SetResolver`0" priority="0" />
+      <Item value="Current" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ISession">
+      <Item value="QueryOver`1" priority="0" />
+      <Item value="Save`0" priority="0" />
+      <Item value="Delete`0" priority="0" />
+      <Item value="Query`1" priority="0" />
+      <Item value="FlushMode" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TinySheets.Persistence.IRepository`1">
+      <Item value="Add`0" priority="0" />
+      <Item value="Items" priority="28" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Autofac.Builder.IRegistrationBuilder`3">
+      <Item value="As`0" priority="7" />
+      <Item value="InstancePerLifetimeScope`0" priority="1" />
+      <Item value="AsClosedTypesOf`3" priority="0" />
+      <Item value="InjectActionInvoker`3" priority="0" />
+      <Item value="SingleInstance`0" priority="0" />
+      <Item value="WithMetadata`1" priority="0" />
+      <Item value="Except`1" priority="0" />
+      <Item value="WithParameter`3" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TinySheets.Eventing.IGenerateDomainEvents">
+      <Item value="SetEventStore`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Queue`1">
+      <Item value="ToArray`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TinySheets.Eventing.IDomainEventStore">
+      <Item value="Add`0" priority="1" />
+      <Item value="RetrieveAndClear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TinySheets.Eventing.DomainEventStore">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TinySheets.Entities.TimeEntryChangedEvent">
+      <Item value="Sender" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TinySheets.Entities.TimeEntry">
+      <Item value="Description" priority="27" />
+      <Item value="Hours" priority="27" />
+      <Item value="Approve`0" priority="27" />
+      <Item value="IsApproved" priority="26" />
+      <Item value="Id" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@log4net.LogManager">
+      <Item value="GetLogger`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:log4net.ILog">
+      <Item value="Info`0" priority="0" />
+      <Item value="Warn`0" priority="0" />
+      <Item value="InfoFormat`0" priority="0" />
+      <Item value="ErrorFormat`0" priority="0" />
+      <Item value="Error`0" priority="0" />
+      <Item value="DebugFormat`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TinySheets.Monitoring.ILog`1">
+      <Item value="Debug`0" priority="28" />
+      <Item value="Equals`0" priority="26" />
+      <Item value="Error`0" priority="26" />
+      <Item value="Information`0" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TinySheets.Persistence.ITransactionContext">
+      <Item value="BeginTransaction`0" priority="2" />
+      <Item value="EndTransaction`0" priority="3" />
+      <Item value="SetAbort`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToArray`1" priority="2" />
+      <Item value="Single`1" priority="0" />
+      <Item value="Select`2" priority="26" />
+      <Item value="ToList`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TinySheets.Eventing.DomainEvent">
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Autofac.IComponentContext">
+      <Item value="Resolve`0" priority="27" />
+      <Item value="ResolveNamed`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="FromSeconds`0" priority="27" />
+      <Item value="FromMilliseconds`0" priority="54" />
+      <Item value="Zero" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.AttributeTargets">
+      <Item value="Class" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TinySheets.Tasks.TaskFrequencyAttribute">
+      <Item value="Frequency" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Autofac.IContainer">
+      <Item value="Resolve`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TinySheets.ServiceProcess.Program">
+      <Item value="RunService`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.IsolationLevel">
+      <Item value="ReadCommitted" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TinySheets.Tasks.ITask">
+      <Item value="Run`0" priority="28" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Autofac.Features.Metadata.Meta`2">
+      <Item value="Metadata" priority="55" />
+      <Item value="Value" priority="28" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Autofac.Features.OwnedInstances.Owned`1">
+      <Item value="Value" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ActionExecutedContext">
+      <Item value="Exception" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Trace">
+      <Item value="WriteLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TinySheets.Entities.TimeEntryApprovedEvent">
+      <Item value="Approver" priority="0" />
+      <Item value="TimeEntry" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.IDependencyResolver">
+      <Item value="GetService`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="158" />
+      <Item value="class" priority="30" />
+      <Item value="DateTime`0" priority="127" />
+      <Item value="TimeSpan`0" priority="191" />
+      <Item value="bool" priority="95" />
+      <Item value="_maxRunTime" priority="63" />
+      <Item value="frequency" priority="31" />
+      <Item value="_frequency" priority="191" />
+      <Item value="task" priority="32" />
+      <Item value="void" priority="95" />
+      <Item value="if" priority="95" />
+      <Item value="_nextRun" priority="223" />
+      <Item value="DayOfWeek`0" priority="31" />
+      <Item value="now" priority="95" />
+      <Item value="var" priority="63" />
+      <Item value="try" priority="31" />
+      <Item value="finally" priority="31" />
+      <Item value="nextRunAtStart" priority="64" />
+      <Item value="readonly" priority="95" />
+      <Item value="object" priority="63" />
+      <Item value="new" priority="159" />
+      <Item value="lock" priority="31" />
+      <Item value="_lock" priority="63" />
+      <Item value="SynchronizationLockException`0" priority="31" />
+      <Item value="Action`0" priority="31" />
+      <Item value="Exception`0" priority="62" />
+      <Item value="catch" priority="31" />
+      <Item value="_handleException" priority="31" />
+      <Item value="TaskRunner`0" priority="92" />
+      <Item value="IEnumerable" priority="31" />
+      <Item value="CrontabEntry`0" priority="31" />
+      <Item value="_crontab" priority="31" />
+      <Item value="tasks" priority="31" />
+      <Item value="CrontabEntry" priority="28" />
+      <Item value="t" priority="96" />
+      <Item value="o" priority="31" />
+      <Item value="_log" priority="191" />
+      <Item value="e" priority="125" />
+      <Item value="Timer" priority="57" />
+      <Item value="_timer" priority="95" />
+      <Item value="foreach" priority="63" />
+      <Item value="crontabEntry" priority="31" />
+      <Item value="static" priority="31" />
+      <Item value="Timeout`0" priority="63" />
+      <Item value="pi" priority="31" />
+      <Item value="c" priority="31" />
+      <Item value="InvoicePublishingTask`0" priority="30" />
+      <Item value="HeartbeatTask`0" priority="62" />
+      <Item value="_hours" priority="63" />
+      <Item value="hours" priority="31" />
+      <Item value="_isApproved" priority="95" />
+      <Item value="true" priority="31" />
+      <Item value="throw" priority="31" />
+      <Item value="virtual" priority="31" />
+      <Item value="return" priority="31" />
+      <Item value="IGrouping" priority="31" />
+      <Item value="_timeEntries" priority="30" />
+      <Item value="automaticallyApproved" priority="63" />
+      <Item value="Equals`0" priority="63" />
+      <Item value="ApprovalEmailSender`0" priority="63" />
+      <Item value="domainEvent" priority="31" />
+      <Item value="ITaskMetadata`0" priority="30" />
+      <Item value="TaskFactory`0" priority="31" />
+      <Item value="false" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="Milliseconds" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="HasValue" priority="26" />
+      <Item value="Value" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.ThreadPool">
+      <Item value="QueueUserWorkItem`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TinySheets.Tasks.ITaskMetadata">
+      <Item value="Frequency" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TinySheets.Tasks.CrontabEntry">
+      <Item value="RunIfDue`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Timer">
+      <Item value="Change`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Timeout">
+      <Item value="Infinite" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="Where`1" priority="26" />
+      <Item value="ToArray`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="HtmlCodeCompletionContext">
+      <Item value="style" priority="5" />
+      <Item value="type" priority="5" />
+      <Item value="div" priority="11" />
+      <Item value="class" priority="12" />
+      <Item value="p" priority="17" />
+      <Item value="h1" priority="5" />
+      <Item value="ul" priority="6" />
+      <Item value="li" priority="59" />
+      <Item value="code" priority="102" />
+      <Item value="embed" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.UrlHelper">
+      <Item value="Content`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="CssCodeCompletionContext">
+      <Item value="div" priority="11" />
+      <Item value="application" priority="4" />
+      <Item value="width" priority="17" />
+      <Item value="float" priority="11" />
+      <Item value="commentary" priority="4" />
+      <Item value="background" priority="11" />
+      <Item value="aliceblue" priority="6" />
+      <Item value="margin" priority="11" />
+      <Item value="border-radius" priority="5" />
+      <Item value="border" priority="11" />
+      <Item value="padding" priority="5" />
+      <Item value="fieldset" priority="5" />
+      <Item value="label" priority="5" />
+      <Item value="font-weight" priority="5" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
